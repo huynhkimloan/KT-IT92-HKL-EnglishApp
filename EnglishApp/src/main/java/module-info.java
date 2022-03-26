@@ -6,4 +6,5 @@ module com.hkl.englishapp {
 
     opens com.hkl.englishapp to javafx.fxml;
     exports com.hkl.englishapp;
+    exports com.hkl.pojo;
 }
